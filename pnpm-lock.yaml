@@ -32,18 +32,18 @@ devDependencies:
     specifier: ^5.3.3
     version: registry.npmmirror.com/@types/react-router-dom@5.3.3
   latejs-app:
-    specifier: ^1.0.1
-    version: registry.npmjs.org/latejs-app@1.0.1
+    specifier: ^1.0.2
+    version: registry.npmjs.org/latejs-app@1.0.2
   latejs-cli:
     specifier: ^1.0.5
     version: registry.npmmirror.com/latejs-cli@1.0.5
 
 packages:
 
-  registry.npmjs.org/latejs-app@1.0.1:
-    resolution: {integrity: sha512-VQHg0j7BjwaGKYaNIxKLHY0158hBxLWlYw/ZWOKQpOV0sqpCH+uXtb4pIvY6IVQqwIkoWBX6ZDQyfrHkA/Z8vA==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmjs.org/latejs-app/-/latejs-app-1.0.1.tgz}
+  registry.npmjs.org/latejs-app@1.0.2:
+    resolution: {integrity: sha512-I/q2jW3buCC+DA48kEOFLeNG86LV68OeCQCJyUkg8sO0D8uU+o5mmQl5IapBhVXh8OwFHQpXloUCe/MUerEucA==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmjs.org/latejs-app/-/latejs-app-1.0.2.tgz}
     name: latejs-app
-    version: 1.0.1
+    version: 1.0.2
     hasBin: true
     dependencies:
       os: registry.npmmirror.com/os@0.1.2

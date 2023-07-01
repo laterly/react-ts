@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ["@commitlint/config-conventional", "cz"]
+  extends: [require.resolve("latejs-app/lib/commitlint")]
 };
