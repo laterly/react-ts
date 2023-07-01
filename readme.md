@@ -21,4 +21,3 @@ Build the app for production:
 ```
 pnpm build
 ```
-
