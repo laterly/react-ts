@@ -1,2 +1,2 @@
-const { prettier } = require("late-app/lib/prettier");
+const { prettier } = require("latejs-app/lib/prettier");
 module.exports = prettier;

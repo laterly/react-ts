@@ -1,3 +1,3 @@
 module.exports = {
-  extends: [require.resolve("late-app/lib/eslint")],
+  extends: [require.resolve("latejs-app/lib/eslint")],
 };
