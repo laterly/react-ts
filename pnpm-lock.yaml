@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   latejs-app:
-    specifier: 1.0.0
-    version: registry.npmjs.org/latejs-app@1.0.0
+    specifier: 1.0.1
+    version: registry.npmjs.org/latejs-app@1.0.1
   mobx:
     specifier: ^6.6.1
     version: registry.npmmirror.com/mobx@6.6.1
@@ -37,10 +37,10 @@ devDependencies:
 
 packages:
 
-  registry.npmjs.org/latejs-app@1.0.0:
-    resolution: {integrity: sha512-iIKKE6F64vio4dSLDH0yxBJrs385rVPnYwNHIdPdye3O9MJp2fO1VSCsSyftOh8+eIS1bCF4ZUSd/wvPqJriMg==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmjs.org/latejs-app/-/latejs-app-1.0.0.tgz}
+  registry.npmjs.org/latejs-app@1.0.1:
+    resolution: {integrity: sha512-VQHg0j7BjwaGKYaNIxKLHY0158hBxLWlYw/ZWOKQpOV0sqpCH+uXtb4pIvY6IVQqwIkoWBX6ZDQyfrHkA/Z8vA==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmjs.org/latejs-app/-/latejs-app-1.0.1.tgz}
     name: latejs-app
-    version: 1.0.0
+    version: 1.0.1
     hasBin: true
     dependencies:
       os: registry.npmmirror.com/os@0.1.2
@@ -7079,7 +7079,7 @@ packages:
       fs.realpath: registry.npmmirror.com/fs.realpath@1.0.0
       inflight: registry.npmmirror.com/inflight@1.0.6
       inherits: registry.npmmirror.com/inherits@2.0.4
-      minimatch: registry.npmmirror.com/minimatch@3.0.8
+      minimatch: registry.npmmirror.com/minimatch@3.1.2
       once: registry.npmmirror.com/once@1.4.0
       path-is-absolute: registry.npmmirror.com/path-is-absolute@1.0.1
     dev: false
