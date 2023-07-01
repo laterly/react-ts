@@ -31,10 +31,11 @@
   "devDependencies": {
     "@types/react": "^18.0.15",
     "@types/react-dom": "^18.0.6",
-    "@types/react-router-dom": "^5.3.3"
+    "@types/react-router-dom": "^5.3.3",
+    "latejs-app": "^1.0.1",
+    "latejs-cli": "^1.0.5"
   },
-  "dependencies": {   
-    "latejs-app": "1.0.1",
+  "dependencies": {
     "mobx": "^6.6.1",
     "mobx-react": "^7.5.2",
     "react": "^18.2.0",
