@@ -11,6 +11,7 @@ export const AuthRouter: React.FC<React.PropsWithChildren<any>> = observer(
   (props) => {
     const { pathname } = useLocation();
     const route = searchRoute(pathname, routes);
+
     if (!route.meta?.isAuth) return props.children;
 
     return props.children;
